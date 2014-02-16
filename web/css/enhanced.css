@@ -1,0 +1,11 @@
+/* line 6, ../../compass/scss/enhanced.scss */
+.form input {
+  width: 90%;
+  margin: 0 auto 2em;
+}
+
+/* line 11, ../../compass/scss/enhanced.scss */
+#submit {
+  width: 14em;
+  margin: auto;
+}
