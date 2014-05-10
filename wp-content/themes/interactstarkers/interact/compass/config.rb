@@ -9,10 +9,10 @@ css_dir = "../css"
 http_stylesheets_path = "/css"
 
 images_dir = "../images"
-http_images_path = "/images"
+http_images_path = "../images"
 
 # generated_images_path = "../public/images"
-http_generated_images_path = "/images"
+http_generated_images_path = "../images"
 
 javascripts_dir = "../js"
 
