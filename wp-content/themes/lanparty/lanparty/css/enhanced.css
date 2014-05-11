@@ -1,0 +1,9 @@
+/* line 1, ../compass/scss/enhanced/_base.scss */
+.banner__logo {
+  margin: 3em auto 1em;
+}
+
+/* line 4, ../compass/scss/enhanced/_base.scss */
+.banner__title {
+  font-size: 4.5em;
+}
