@@ -8217,3 +8217,58 @@ header[role="banner"], .intro {
   width: 16px;
   height: 16px;
 }
+
+/* line 1, ../compass/scss/style/_base.scss */
+.organiser__image {
+  -webkit-border-radius: 15em;
+  -moz-border-radius: 15em;
+  -ms-border-radius: 15em;
+  -o-border-radius: 15em;
+  border-radius: 15em;
+  max-width: 15em;
+  overflow: hidden;
+  margin: 1em auto;
+}
+
+/* line 1, ../compass/scss/style/_base.scss */
+.organiser__name {
+  font-size: 1.5em;
+  color: #f34343;
+  display: block;
+}
+
+/* line 1, ../compass/scss/style/_base.scss */
+.organiser__twitter {
+  color: #4a4a4a;
+}
+/* line 1, ../compass/scss/style/_base.scss */
+html.no-touch .organiser__twitter:hover {
+  color: #313131;
+}
+
+/* line 1, ../compass/scss/style/_base.scss */
+.attendee {
+  display: inline-block;
+  background: #4A4A4A;
+  color: #fff;
+  width: 6em;
+  height: 6em;
+  -webkit-border-radius: 6em;
+  -moz-border-radius: 6em;
+  -ms-border-radius: 6em;
+  -o-border-radius: 6em;
+  border-radius: 6em;
+  position: relative;
+  margin: 0.5em;
+}
+
+/* line 1, ../compass/scss/style/_base.scss */
+.attendee__name {
+  position: absolute;
+  top: 50%;
+  margin-top: -0.6em;
+  width: 100%;
+  font-size: 1.2em;
+  left: 0;
+  padding: 0 0.8em;
+}
